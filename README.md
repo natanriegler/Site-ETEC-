@@ -1,4 +1,5 @@
 # Site-ETEC-
+
 Esse site é uma atividade solicitada
 
 ## Tarefas
@@ -9,5 +10,5 @@ O controle das tarefas desse projeto será realizado no GitHub
 
 :package: nova funcionalidade
 :up: atualização
-:batle: correção de bug
+:beetle: correção de bug
 :checkred_flag: realese
